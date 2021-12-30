@@ -8,12 +8,13 @@ In the past, I worked mostly on GitLab, private workspaces, and projects as a we
 
 I'm a very curious person, especially interested in software engineering, web development, but also love art, nature, and sports. I mostly spend my free time trying to "feed" my curiosity, going outside with my dog, dancing, climbing, and playing video games of course. 😁.
 
-   🔭 I’m currently working as developer and Co-Founder at [Studylia](https://studylia.com/) and also a student at 42Wolfsburg👨‍🎓.
-   🌱 I’m currently learning C, C#, German🇩🇪.
-   👯 I’m looking to collaborate on sincerely anything. If I like the idea, we can discuss it further.
-   🤔 I’m looking for help with C, C#, PHP, JS.
-   💬 Ask me about anything related to programing, ideas I love brainstorming.
-   📫 How to reach me: get in contact with me on my [LinkedIn](https://www.linkedin.com/in/eduard-hosu-a7725b159/) \
+    🔭 I’m currently working as developer and Co-Founder at [Studylia](https://studylia.com/) \
+       and also a student at 42Wolfsburg👨‍🎓.
+    🌱 I’m currently learning C, C#, German🇩🇪.
+    👯 I’m looking to collaborate on sincerely anything. If I like the idea, we can discuss it further.
+    🤔 I’m looking for help with C, C#, PHP, JS.
+    💬 Ask me about anything related to programing, ideas I love brainstorming.
+    📫 How to reach me: get in contact with me on my [LinkedIn](https://www.linkedin.com/in/eduard-hosu-a7725b159/) \
        if you are interested in a collaboration or simply just for questions, I usually check my LinkedIn daily, \
        so I'll make sure to answer if not I will return in max 48 hours.
-   ⚡ Fun fact: I'm a former professional sports dancer🕺(4 years) and handball player🤾‍♂️(5 years).
+    ⚡ Fun fact: I'm a former professional sports dancer🕺(4 years) and handball player🤾‍♂️(5 years).

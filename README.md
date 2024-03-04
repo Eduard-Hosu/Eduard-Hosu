@@ -1,19 +1,20 @@
-### Hi there 👋
+### Hello There! 👋
 
-My name is **Eduard**, you can call me whatever abbreviation you want (Ed, Edward, ...) I don't mind, choose what's easy for you to pronounce.
+#### I'm Eduard, but feel free to call me Ed, Edward, or any other abbreviation that's easy for you. I'm all about embracing new challenges and opportunities that push me beyond my comfort zones. This passion drives my continuous learning journey in programming languages and development techniques, enhancing my skill set day by day.
 
-I enjoy challenging and engaging in new opportunities, which require me to work outside my comfort zone and knowledge. It helps me to continue learning new languages and development techniques and thereby improves my abilities.
+- 🌟 **Background:** I've spent most of my career working on GitLab, in private workspaces, and on various projects as a web developer. My GitHub is a showcase of my recent endeavors in this exciting field. I'm deeply intrigued by software engineering and web development, yet my interests don't end there; I'm also a lover of art, nature, sports, and, admittedly, a bit of a video game enthusiast.
 
-In the past, I worked mostly on GitLab, private workspaces, and projects as a web developer. Feel free to contact me for more details. Most of what you can see here are my recent projects.✨🤩✨
+- 🔭 **Currently:** I wear multiple hats as a developer, a former Co-Founder of [Studylia](https://studylia.com/), and a student at 42Wolfsburg. My academic and professional journey is continuously evolving.
 
-I'm a very curious person, especially interested in software engineering, web development, but also love art, nature, and sports. I mostly spend my free time trying to "feed" my curiosity, going outside with my dog, dancing, climbing, and playing video games of course. 😁.
+- 🌱 **Learning Path:** My current learning focus includes C, C++, Docker, Python, and German🇩🇪. I'm committed to expanding my knowledge and skills in these areas.
 
-   <p>🔭 I’m currently working as developer and Co-Founder at <a href="https://studylia.com/" target="_blank">Studylia</a> and also a student at 42Wolfsburg👨‍🎓.</p>
-   <p>🌱 I’m currently learning C, C++, Docker, Python, German🇩🇪.</p>
-   <p>👯 I’m looking to work/collaborate on sincerely anything, especially on renewable energy projects. If I like the idea, we can discuss it further.</p>
-   <p>💬 Ask me about anything related to programming, ideas. I love brainstorming!</p>
-   <p>📫 How to reach me: get in contact with me on my <a href="https://www.linkedin.com/in/eduard-hosu/" target="_blank">LinkedIn</a> if you are interested in a collaboration or simply just for questions, I usually check my LinkedIn daily, so I'll make sure to answer if not I will return in max 48 hours.</p>
-   <p>⚡ Fun fact: I'm a former professional sports dancer🕺(4 years) and handball player🤾‍♂️(5 years).</p>
+- 👯 **Collaborations/Jobs:** I'm open to collaborating and working on projects across any domain, though I have a special interest in initiatives related to renewable energy and climate change. If you have an idea you're passionate about, let's chat and explore how we can work together.
+
+- 💬 **Let's Connect:** Whether you have questions about programming, need advice, or want to brainstorm some ideas, I'm here for it all. The best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/eduard-hosu/). I check my messages daily and promise to get back to you within 48 hours.
+
+- ⚡ **Fun Facts:** Beyond the world of tech, I have a background as a professional sports dancer (4 years) and handball player (5 years). It's these experiences that have taught me the importance of teamwork, dedication, and always moving to the rhythm of challenges life throws my way.
+
+Feel free to dive into my projects here on GitHub or reach out for a chat. I'm always looking to connect with like-minded individuals and explore new possibilities. Let's create something amazing together!
    
    <p>My LeetCode activity:</p>
    

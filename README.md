@@ -4,7 +4,7 @@
 
 - 🌟 **Background:** I've spent most of my career working on GitLab, in private workspaces, and on various projects as a web developer. My GitHub is a showcase of my recent endeavors in this exciting field. I'm deeply intrigued by software engineering and web development, yet my interests don't end there; I'm also a lover of art, nature, sports, and, admittedly, a bit of a video game enthusiast.
 
-- 🔭 **Currently:** I wear multiple hats as a developer, a former Co-Founder of [Studylia](https://studylia.com/), and a student at 42Wolfsburg. My academic and professional journey is continuously evolving.
+- 🔭 **Currently:** I wear multiple hats as a developer, a former Co-Founder of [Studylia](https://studylia.com/), and a student at 42Wolfsburg. My academic and professional journey is continuously evolving. I’m actively working on personal projects and preparing for new opportunities.
 
 - 🌱 **Learning Path:** My current learning focus includes C, C++, Docker, Python, and German🇩🇪. I'm committed to expanding my knowledge and skills in these areas.
 

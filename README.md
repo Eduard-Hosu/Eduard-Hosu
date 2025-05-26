@@ -6,7 +6,7 @@
 
 - 🔭 **Currently:** I wear multiple hats as a developer, a former Co-Founder of [Studylia](https://studylia.com/), and a student at 42Wolfsburg. My academic and professional journey is continuously evolving. I’m actively working on personal projects and preparing for new opportunities.
 
-- 🌱 **Learning Path:** My current learning focus includes C, C++, Docker, Python, and German🇩🇪. I'm committed to expanding my knowledge and skills in these areas.
+- 🌱 **Learning Path:** My current learning focus includes C, C++, Docker, Python, and German 🇩🇪. I'm committed to expanding my knowledge and skills in these areas.
 
 - 👯 **Collaborations/Jobs:** I'm open to collaborating and working on projects across any domain, though I have a special interest in initiatives related to renewable energy and climate change. If you have an idea you're passionate about, let's chat and explore how we can work together.
 
